@@ -2,7 +2,7 @@ import os,time
 from aiogram import *
 from _class_hunt_ import *
 
-conex = Bot('6196974586:AAFCl8xClMQpUVScL3CIpWC9DQ9yLawQsY8', parse_mode='html')
+conex = Bot('6925848426:AAFfDLHcvTNY9Qq2_xCDiM7wUr-BHtVjnf0', parse_mode='html')
 rex=Dispatcher(conex)
 
 @rex.message_handler(commands=['start'])
